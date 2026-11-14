@@ -1,5 +1,6 @@
 MIT 8103 Advanced Database Systems Portfolio
-Student: Adekanye Michael Adeoye
+
+Name: Adekanye Michael Adeoye
 
 Case Study
 MBA Online Marketplace
