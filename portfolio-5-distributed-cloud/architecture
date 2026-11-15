@@ -1,0 +1,8 @@
+Customers -> HTTPS Load Balancer -> Application Servers
+                                  |
+                                  v
+                    Managed PostgreSQL Primary
+                       /                     \
+              Read Replica 1          Read Replica 2
+                                  |
+                         Backup / Object Storage
