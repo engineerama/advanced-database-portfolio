@@ -38,4 +38,4 @@ Commit messages describe the work completed.
 AI-supported content is reviewed and verified by the student.
 
 Academic Integrity
-This repository represents the student's practical implementation. Microsoft Copilot may be used as a learning and documentation aid, but all submitted scripts and results are tested and verified by the student.
+This repository represents the student's practical implementation. Microsoft Copilot may be used as a learning and documentation aid, but all submitted scripts and results are tested and verified.
