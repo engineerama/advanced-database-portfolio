@@ -1,38 +1,30 @@
-MIT 8103 Advanced Database Systems Portfolio
+MIT 8103 Evidence Plan
 Student
 Adekanye Michael Adeoye
 
 Case Study
 MBA Online Marketplace
 
-Project Overview
-This repository contains the practical implementation and supporting evidence for the MIT 8103 Advanced Database Systems continuous assessment.
+Purpose
+This evidence plan identifies the implementation files, screenshots, outputs and explanations that will be produced for each portfolio activity.
 
-The project uses one e-commerce case study across relational database design, query optimisation, transaction management, NoSQL modelling and distributed/cloud database architecture.
+Portfolio 2: Query Processing and Optimisation
+Implementation Evidence
+Customer order-history query
+Best-selling products query
+Category-sales query
+Index creation
+Execution-plan comparison
+Performance analysis
+Planned Files
+portfolio-2-query-optimisation/queries.sql
+portfolio-2-query-optimisation/indexes.sql
+portfolio-2-query-optimisation/README.md
+Screenshots
+Query results
+EXPLAIN ANALYZE result before indexing
+EXPLAIN ANALYZE result after indexing
+Execution time and scan type
+Verification
+The queries will be tested against a sufficiently large dataset. Planning time, execution time, scan type and rows processed will be compared.
 
-Portfolio Structure
-Portfolio	Topic	Status
-1	Database Design and Modelling	In progress
-2	Query Processing and Optimisation	Not started
-3	Transactions and Concurrency	Not started
-4	NoSQL and Advanced Data Models	Not started
-5	Distributed and Cloud Databases	Not started
-Technologies
-PostgreSQL
-pgAdmin
-MongoDB
-MongoDB Compass
-Draw.io
-GitHub
-Azure Database for PostgreSQL
-Evidence Plan
-The detailed evidence plan is available in evidence-plan.md.
-
-Repository Rules
-All scripts are tested before being committed.
-Screenshots are original implementation evidence.
-Sensitive credentials and connection strings are excluded.
-Commit messages describe the work completed.
-AI-supported content is reviewed and verified by the student.
-Academic Integrity
-This repository represents the student's practical implementation. Microsoft Copilot may be used as a learning and documentation aid, but all submitted scripts and results are tested and verified by the student.
