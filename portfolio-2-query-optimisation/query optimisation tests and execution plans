@@ -1,0 +1,6 @@
+queries.sql
+indexes.sql
+screenshots/01-customer-order-query.png
+screenshots/02-plan-before-index.png
+screenshots/03-plan-after-index.png
+screenshots/04-performance-comparison.png
